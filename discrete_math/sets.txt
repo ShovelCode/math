@@ -12,3 +12,4 @@ George Cantor lived from 1845 to 1918. He went insane at the end.
 
 A data type in computer science is a set.
 
+5. A function is a set of ordered pairs, two functions whose graphs intersect are just that, a single point, or a single set of ordered pairs is the intersection of those two sets.
