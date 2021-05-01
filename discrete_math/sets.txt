@@ -1,0 +1,14 @@
+Math needs to be in words. Good for text files and source control.
+
+1. A set is an unordered collection of objects.
+
+George Cantor lived from 1845 to 1918. He went insane at the end.
+
+2. The objects in a set are called the elements or members of a set. A set is said to contain its elements.
+
+3. Look upon these: natural numbers, integers, positive integers, rational numbers, real numbers
+
+4. The universal set is all elements under consideration
+
+A data type in computer science is a set.
+
