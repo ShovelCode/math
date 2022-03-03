@@ -1,0 +1,3 @@
+The Classification of the Finite Simple Groups.
+
+3D4       Steinberg triality groups of type 3D4
