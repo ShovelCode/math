@@ -1,3 +1,8 @@
 The Classification of the Finite Simple Groups.
 
+Cyclic groups Zp
+Alternating groups Altn
+An(Q)   A chevalley group
+
+
 3D4       Steinberg triality groups of type 3D4
