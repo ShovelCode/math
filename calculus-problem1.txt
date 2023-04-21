@@ -1,0 +1,21 @@
+A rock is dropped from a height of 100 meters. The distance that the rock falls in t seconds is given by the function d(t) = 4.9t^2. What is the velocity of the rock when it hits the ground?
+
+Solution:
+
+The velocity of the rock can be found by taking the derivative of the distance function with respect to time:
+
+v(t) = d/dt (4.9t^2) = 9.8t
+
+We want to find the velocity of the rock when it hits the ground, which is the time when d(t) = 100. Setting 4.9t^2 = 100, we get:
+
+t^2 = 20.4
+
+Taking the square root of both sides, we get:
+
+t ≈ 4.5 seconds
+
+Therefore, the velocity of the rock when it hits the ground is:
+
+v(4.5) = 9.8(4.5) ≈ 44.1 m/s
+
+So the rock hits the ground at a velocity of approximately 44.1 meters per second.
